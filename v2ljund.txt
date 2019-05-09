@@ -1,0 +1,9 @@
+Autod millel on 2.0 või suuremad mootorid.
+Autol Audi on 3.2Liitrine mootor.
+Autol BMW on 2.5Liitrine mootor.
+Autol Mercedes on 6.3Liitrine mootor.
+Autol Porsche on 3.6Liitrine mootor.
+Autol Subaru on 2.0Liitrine mootor.
+Autod mis on kohvimasinad on...
+Fiat millel on 1.8 liitrine mootor.
+Peugeot millel on 1.6 liitrine mootor.
